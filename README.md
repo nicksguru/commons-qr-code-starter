@@ -23,7 +23,7 @@ Pick the most recent version from
 <dependencies>
     <dependency>
         <groupId>guru.nicks.commons</groupId>
-        <artifactId>integration-test-starter</artifactId>
+        <artifactId>qr-code-starter</artifactId>
         <scope>test</scope>
     </dependency>
 </dependencies>
