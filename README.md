@@ -1,7 +1,7 @@
 # [Nicks.Guru](https://nicks.guru) Commons QR Code Starter
 
-:rocket:
 ![Latest version](https://img.shields.io/maven-central/v/guru.nicks.commons/qr-code-starter?filter=!25.*&label=Latest%20version:&cacheSeconds=10800)
+:rocket:
 ![Release date](https://img.shields.io/maven-central/last-update/guru.nicks.commons/qr-code-starter?label=&color=orange&cacheSeconds=10800)
 
 Starter for generating QR codes.
