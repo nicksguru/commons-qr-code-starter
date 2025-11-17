@@ -1,4 +1,4 @@
-package guru.nicks.qrcode.utils;
+package guru.nicks.commons.qrcode.utils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.WriterException;
